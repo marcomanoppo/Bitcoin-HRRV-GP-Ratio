@@ -1,6 +1,8 @@
 # Bitcoin-HRRV-GP-Ratio
 
-Python script to generate bitcoin HRRV and GP Ratio by using blockchain.com data source.
+Python scripts to generate bitcoin HRRV and GP Ratio by using blockchain.com data source. 
+
+Plot.ly package is then utilized to embed the chart on a wordpress site.
 
 Full explanation can be found on:
 
